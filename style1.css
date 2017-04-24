@@ -1,0 +1,39 @@
+div{ 
+font-size: 20pt;
+font-family: arial;
+}
+float{
+float: right;
+margin-right: 10px;
+border: 3px ridge #000000;
+}
+header {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(controller.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    margin: 5px 5px 5px 5px;
+    line-height: 250%;
+    border:7px groove #5b9279;
+
+}
+nav a:link 
+    { color: #d7da46; }
+nav a:visited 
+    { color: #8bc38b; }
+nav a:hover 
+    { color: #002474; }
+ nav {
+            float: left;
+            max-width: 135px;
+            padding: 1em;
+            position:center;
+            margin-right: 4px;
+}
+ nav a {
+            text-decoration: none;
+            padding: 12px;
+            display: block;
+            background-color: Black;
+            border-bottom: 1px solid #FFFFFF;
+        }
